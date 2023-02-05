@@ -1,6 +1,28 @@
 **Candlestick `patterns`**
 ===
 
+A daily candlestick charts shows the security’s open, high, low, and close price for the day. The candlestick’s wide or rectangle part is called the “real body” which shows the link between opening and closing prices.
+
+
+
+![Alt text](images/Candelstick%20pattern.jpg)
+
+
+This real body shows the price range between the open and close of that day’s trading.
+
+When the real body is filled, black or red then it means that the close is lower than the open and is known as the bearish candle. It shows that the prices opened, the bears pushed the prices down and closed lower than the opening price.
+
+If the real body is empty, white or green then it means that the close was higher than the open known as the bullish candle. It shows that the prices opened, the bulls pushed the prices up and closed higher than the opening price.
+
+- The thin vertical lines above and below the real body is knowns as the wicks or shadows which represents the high and low prices of the trading session.
+- The upper shadow shows the high price and lower shadow shows the low prices reached during the trading session.
+- Strength is represented by a bullish or green candle and weakness by a bearish or red candle. One should ensure that whenever they are buying it is a green candle day and whenever they are selling, ensure that it’s a red candle day.
+- The textbook definition of a patterns states certain criteria, but one should state that there could be minor variations to the pattern depending on certain market conditions.
+- One should look for a prior trend. If you are looking at a bullish reversal pattern, then the prior trend should be bearish and if you are looking for a bearish reversal pattern then the prior trend should be bullish.
+
+
+Here are the types of patterns
+
 - [Bullish candlestick patterns](#bullish-candlestick-patterns)
   - [Hammer](#hammer)
   - [Piercing Pattern](#piercing-pattern)
