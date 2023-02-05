@@ -62,6 +62,8 @@ These are some of the most common bullish candlestick patterns. It's important t
 
 The Hammer candlestick pattern is a bullish reversal pattern that is often observed in financial charts. It is used by technical analysts and traders to indicate a potential change in trend from a downtrend to an uptrend.
 
+![Hammer](images/hammer.png)
+
 The Hammer candlestick pattern is formed when the price of an asset experiences a sharp decline, followed by a rally back to close near the opening price. The pattern is named after its shape, which resembles a hammer.
 
 A typical Hammer candlestick pattern has the following characteristics:
@@ -81,6 +83,7 @@ It's important to note that the Hammer pattern should be confirmed by other tech
 
 ## Piercing Pattern
 The Piercing Pattern is a bullish reversal candlestick pattern that is often observed in financial charts. It is used by technical analysts and traders to indicate a potential change in trend from a downtrend to an uptrend.
+![Alt text](images/piercing.png)
 
 The Piercing Pattern is formed when a long red candlestick (indicating a bearish trend) is followed by a green candlestick that opens below the close of the prior red candlestick and closes above the midpoint of the prior red candlestick.
 
@@ -101,6 +104,8 @@ It's important to note that the Piercing Pattern should be confirmed by other te
 ## Bullish Engulfing
 Bullish Engulfing is a bullish reversal candlestick pattern that signals a potential change in trend from a downtrend to an uptrend. The pattern is formed when a small red candlestick is followed by a large green candlestick, which completely "engulfs" the prior red candlestick.
 
+![Alt text](images/bullishengulfing.png)
+
 A typical Bullish Engulfing pattern has the following characteristics:
 
 The first candlestick is red and small, representing a bearish trend.
@@ -118,6 +123,8 @@ It's important to note that the Bullish Engulfing pattern should be confirmed by
 ## Morning Star
 The Morning Star candlestick pattern is a bullish reversal pattern that signals a potential change in trend from a downtrend to an uptrend. It is formed by three candlesticks and is considered a reliable reversal pattern.
 
+![Alt text](images/morningstar.png)
+
 A typical Morning Star pattern has the following characteristics:
 
 The first candlestick is a long red or bearish candle, representing the downtrend.
@@ -134,6 +141,8 @@ It's important to note that the Morning Star pattern should be confirmed by othe
 ## Three White Soldiers
 The Three White Soldiers candlestick pattern is a bullish reversal pattern that signals a potential change in trend from a downtrend to an uptrend. It is formed by three consecutive white or green candlesticks, with each candle closing higher than the previous one, representing a strong bullish momentum.
 
+![Alt text](images/threewhitesoldiers.png)
+
 A typical Three White Soldiers pattern has the following characteristics:
 
 The first candlestick is a long green or white candle, representing the start of the uptrend.
@@ -148,6 +157,8 @@ It's important to note that the Three White Soldiers pattern should be confirmed
 
 ## White Marubozu
 The White Marubozu is a single candlestick pattern that is used to signal a strong bullish trend. It is formed when a white or green candlestick has no shadows or wicks on either end, indicating a strong and sustained move higher.
+
+![Alt text](images/marubozu.png)
 
 A typical White Marubozu has the following characteristics:
 
@@ -164,6 +175,8 @@ It's important to note that the White Marubozu pattern should be confirmed by ot
 ## Three Inside Up
 The Three Inside Up candlestick pattern is a bullish reversal pattern that signals a change from a downtrend to an uptrend. It is formed by three candlesticks, with the first being a long red or black candle that represents a bearish trend, followed by a smaller red or black candle, and finally a white or green candle that closes above the high of the first candle.
 
+![Alt text](images/threeinsideup.png)
+
 Here is a typical Three Inside Up pattern:
 
 The first candle is a long red or black candle that represents a bearish trend.
@@ -179,6 +192,8 @@ It's important to note that the Three Inside Up pattern should be confirmed by o
 ## Bullish Harami
 The Bullish Harami is a candlestick pattern that signals a potential reversal from a downtrend to an uptrend in a financial instrument. It is a two-candlestick pattern that is typically formed during a downtrend and suggests a potential change in trend direction.
 
+![Alt text](images/bullishharami.png)
+
 Here is a typical Bullish Harami pattern:
 
 The first candle is a long red or black candle that represents a bearish trend.
@@ -191,6 +206,8 @@ It's important to note that the Bullish Harami pattern should be confirmed by ot
 
 ## Tweezer Bottom
 The Tweezer Bottom is a bullish reversal candlestick pattern that occurs at the end of a downtrend and signals the potential start of an uptrend. The pattern consists of two or more candles that have the same low price and form a "tweezer" shape.
+
+![Alt text](images/tweezerbottom.png)
 
 Here's how a typical Tweezer Bottom pattern looks like:
 
@@ -207,6 +224,8 @@ It's important to note that the Tweezer Bottom pattern is not a guarantee of an 
 ## Inverted Hammer
 The Inverted Hammer candlestick is a bullish reversal pattern that signals the potential start of an uptrend after a downtrend. The pattern consists of a single candle and its appearance signals a potential trend change in the market.
 
+![Alt text](images/invertedhammer.png)
+
 Here's how the Inverted Hammer pattern looks like:
 
 The single candle is usually long and has a small or no lower shadow.
@@ -222,6 +241,8 @@ It's important to note that the Inverted Hammer pattern is not a guarantee of an
 ## Three Outside Up
 The Three Outside Up candlestick pattern is a bullish reversal pattern that signals the potential start of an uptrend after a downtrend. The pattern is composed of three candles and its appearance is a strong indication of a potential trend change in the market.
 
+![Alt text](images/threeoutsideup.png)
+
 Here's how the Three Outside Up pattern looks like:
 
 The first candle is a long red candle, which signifies a downtrend.
@@ -236,10 +257,16 @@ It's important to note that the Three Outside Up pattern is not a guarantee of a
 
 
 ## On-Neck
-The On-Neck Pattern is a bearish reversal candlestick pattern that is formed when a small real body appears on top of a long real body in a downtrend. The small real body is formed after a strong downward trend and indicates that the selling pressure is losing steam, as the bears are becoming weaker and the bulls are starting to push prices up. This pattern signals a potential trend reversal and suggests that the market is due for a bounce, with the traders taking control from the bears. To confirm the On-Neck pattern, traders look for a close above the high of the small real body, which signals a stronger bullish reversal. However, it's important to note that the On-Neck pattern by itself is not a guaranteed indicator of a trend reversal, and traders should always look for additional confirmation through technical analysis and market indicators.
+The On-Neck Pattern is a bearish reversal candlestick pattern that is formed when a small real body appears on top of a long real body in a downtrend. 
+
+![Alt text](images/onneck.png)
+
+The small real body is formed after a strong downward trend and indicates that the selling pressure is losing steam, as the bears are becoming weaker and the bulls are starting to push prices up. This pattern signals a potential trend reversal and suggests that the market is due for a bounce, with the traders taking control from the bears. To confirm the On-Neck pattern, traders look for a close above the high of the small real body, which signals a stronger bullish reversal. However, it's important to note that the On-Neck pattern by itself is not a guaranteed indicator of a trend reversal, and traders should always look for additional confirmation through technical analysis and market indicators.
 
 ## Bullish Counterattack
 The Bullish Counterattack is a bullish reversal candlestick pattern that occurs after a downtrend. The pattern is formed by two candlesticks, with the first being a long bearish candle, indicating strong selling pressure and a downward trend. The second candlestick is a long bullish candle, indicating that the buying pressure has overpowered the selling pressure and the price has reversed direction.
+
+
 
 The Bullish Counterattack pattern signals a potential trend reversal and suggests that the market is due for a bounce. To confirm the pattern, traders look for a close above the high of the first bearish candle, which signals a stronger bullish reversal. Additionally, traders may also look for other bullish indicators, such as increasing volume or a bullish crossover in momentum indicators.
 
