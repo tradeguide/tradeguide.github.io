@@ -1,5 +1,14 @@
 **PE Ratio**
 ===
+> 
+The Price-to-Earnings (P/E) ratio is one of the most commonly used valuation metrics for stocks. A good P/E ratio depends on a variety of factors, including the industry, the stage of the business cycle, and the growth prospects of the company.
+
+Typically, a lower P/E ratio is considered to be better, as it indicates that a stock is undervalued and potentially a good value. However, a low P/E ratio can also indicate that a company has weak earnings or limited growth prospects.
+
+For comparison purposes, the average P/E ratio for the S&P 500, which represents the large-cap U.S. stock market, is around 20-25. Some industries, such as technology, may have a higher average P/E ratio, while others, such as utilities, may have a lower average P/E ratio.
+
+It's important to keep in mind that a good P/E ratio is not the only factor to consider when evaluating a stock. Other factors, such as earnings growth, return on equity, and debt-to-equity ratios, should also be considered. Additionally, it's always a good idea to consult with a financial advisor before making any investment decisions.
+
 
 The Price-to-Earnings (PE) ratio is a financial ratio used to compare a company's current market price to its earnings per share (EPS). 
 It is calculated by dividing the current market price of a stock by its earnings per share.
