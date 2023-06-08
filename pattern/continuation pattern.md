@@ -22,6 +22,8 @@ A continuation pattern is labeled as such because there is a slight tendency for
 
 Not all continuation patterns will result in a continuation of the trend, though. For example, the price may reverse the trend after forming a triangle or pennant.
 
+![Breakout](images/ContinuationPattern.jpg)
+
 Continuation patterns tend to be most reliable when the trend moving into the pattern is strong, and the continuation pattern is relatively small compared to the trending [waves](https://www.investopedia.com/terms/e/elliottwavetheory.asp). For example, the price rises strongly, forms a small triangle pattern, [breaks](https://www.investopedia.com/terms/b/breakout.asp) above the triangle pattern, and then continues to move higher.
 
 ### Warning Signs of a Weak Pattern

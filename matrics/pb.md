@@ -37,7 +37,31 @@ This article discusses the nuts and bolts of the Price to Book Value Ratio.
 
 The price to book value ratio is one of the relative valuation tools used to measure stock valuation. The price to book value compares the share's current market price with its Book value (as calculated from the Balance Sheet).
 
+---
+The Price-to-Book (P/B) ratio tells an investor if he is paying
+too much for what will be left if the company went bankrupt.
+It is a ratio of the company’s current share price to book value
+per share. Sometimes, stock prices can skyrocket without any
+corresponding asset base of the company. This ratio helps
+identify such companies by comparing it with the industry
+average before making a decision.
 
+**Example:**
+```
+Value of a company = Rs.1000
+If the company shuts down,
+Loan repayment = Rs.400
+Selling of assets = Rs.200
+Total book value = 1000 - 400 + 200
+Total outstanding shares = 100
+Book value per share = Total Book Value/Total
+outstanding shares = Rs.800/100 = Rs.8
+Market price of a share = Rs.80
+```
+```
+P/B ratio = Market price of a share/Book value per share = 80/8 = **10**
+```
+---
 
 ![Price-to-Book-Value](https://cdn.wallstreetmojo.com/wp-content/uploads/2016/03/Price-to-Book-Value-1.jpg)
 

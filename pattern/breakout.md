@@ -33,7 +33,7 @@ Traders who use breakouts to initiate trades typically utilize stop loss orders 
 Example of a Breakout
 ---------------------
 
-![Image](ref/images/breakout.jpg)
+![Breakout](images/breakout.jpg)
 
 
 The chart shows a large increase in volume, associated with an [earnings](https://www.investopedia.com/terms/e/earnings.asp) release, as the price breaks through the resistance area of a triangle chart pattern. The breakout was so strong that it caused a price [gap](https://www.investopedia.com/terms/g/gap.asp). The price continued to move higher and didn't retrace to the original breakout point. That is a sign of a very strong breakout.

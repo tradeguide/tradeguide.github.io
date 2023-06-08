@@ -1,4 +1,4 @@
-**Candlestick `patterns`**
+**Candlestick patterns**
 ===
 
 A daily candlestick charts shows the security’s open, high, low, and close price for the day. The candlestick’s wide or rectangle part is called the “real body” which shows the link between opening and closing prices.
@@ -22,7 +22,6 @@ If the real body is empty, white or green then it means that the close was highe
 
 
 Here are the types of patterns
-
 - [Bullish candlestick patterns](#bullish-candlestick-patterns)
   - [Hammer](#hammer)
   - [Piercing Pattern](#piercing-pattern)
@@ -61,6 +60,7 @@ Here are the types of patterns
   - [Falling Window](#falling-window)
   - [High Wave](#high-wave)
 
+---
 # Bullish candlestick patterns
 Bullish candlestick patterns are chart patterns that signal the potential start of an uptrend in the market. These patterns are composed of one or more candles and provide information about the market sentiment and the direction of price movement. Here are some of the most common bullish candlestick patterns:
 
