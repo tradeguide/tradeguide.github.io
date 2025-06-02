@@ -8,7 +8,7 @@ A golden cross is a chart pattern in which a relatively short-term moving averag
 - The golden cross can be contrasted with a death cross, which indicates a bearish price movement.
 - The golden cross because is a lagging indicator, which means traders should use it with other tools in their decision-making.
 
-  Understanding Golden Crosses
+## Understanding Golden Crosses
 The term golden cross refers to a tool used in technical analysis. It is a momentum indicator, which means that prices are continuously increasing—gaining momentum. It means that traders and investors have changed their outlooks to bullish rather than bearish.
 
 The indicator generally has three stages:
@@ -39,11 +39,28 @@ A golden cross and a death cross are opposing indicators. The golden cross confi
 
 Once the crossover occurs, the long-term moving average is considered a major support level (in the case of the golden cross) or resistance level (in the instance of the death cross) for the market from that point forward. Either cross may appear and signal a trend change, but they more frequently occur when a trend change has already occurred.
 
- 	-|Golden Cross| 	Death Cross 
-  --|--|--
+
+. |Golden Cross| 	Death Cross 
+--|--|--
 Type of Market 	|A possible long-term bull market is approaching| 	A possible long-term bear market is approaching 
 Short-Term Moving Average| 	Crosses from below the long-term moving average| 	Crosses from above the long-term moving average 
 Long-Term Moving Average|	Becomes support|	Becomes resistan
 
+## Limitations of a Golden Cross
+All indicators are lagging, which means the data used to form the charts has already occurred. As such, they indicate past performance so they are reactive rather than proactive. This means that no indicator can truly predict the future. Many times, an observed golden cross produces a false signal.
+
+Despite its apparent predictive power in forecasting prior large bull markets, golden crosses also regularly fail to manifest. Therefore, other signals and indicators (especially leading indicators) should always be used to confirm a golden cross.
+
+## Is the Golden Cross Always Bullish?
+The golden cross occurs when a short-term moving average crosses over a major long-term moving average to the upside and is interpreted by analysts and traders as signaling a definitive upward turn in a market. This is a bullish outlook by investors.
+
+## What Does a Golden Cross Mean?
+A golden cross suggests a long-term bull market going forward. It is the opposite of a death cross, which is a bearish indicator that forms when a short-term moving average crosses a long-term one from above.
+
+## How Reliable Is the Golden Cross?
+As a lagging indicator, a golden cross is identified only after the market has risen, which makes it seem reliable. However, as a result of the lag, it is also difficult to know when the signal is false until after the fact. Traders often use a golden cross to confirm a trend or signal in combination with other indicators.
+
+## The Bottom Line
+A golden cross is believed to confirm the reversal of a downward trend. The key to using this technical tool correctly—with additional filters and indicators—is to use profit targets, stop loss, and other risk management tools. Remember to maintain a favorable risk-to-reward ratio and to time your trade rather than just following the cross mindlessly.
 
 
